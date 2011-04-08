@@ -89,10 +89,10 @@
 					<visible>Library.HasContent(TVShows)</visible>
 				</item>
 				<item id="4">
-					<description>Favourites</description>
-					<label>$LOCALIZE[1036]</label>
-					<onclick>ActivateWindow(Favourites)</onclick>
-					<visible>Skin.HasSetting(showfavouritesmainmenu)</visible>
+					<description>Movies</description>
+					<label>Movies</label>
+					<onclick>ActivateWindow(MyVideoLibrary,movietitles)</onclick>
+					<visible>Library.HasContent(Movies)</visible>
 				</item>
 				<item id="5">
 					<description>Video Plugins</description>

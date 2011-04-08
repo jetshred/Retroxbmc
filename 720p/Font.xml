@@ -70,67 +70,67 @@
 		</font>
 		<font>
 			<name>lobsterSmallest</name>
-			<filename>Lobster14.ttf</filename>
+			<filename>Lobster14.ttfttf</filename>
 			<size>16</size>
 		</font>
 		<font>
 			<name>qlassikMedium</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>30</size>
 		</font>
 		<font>
 			<name>qlassikMedium2</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>26</size>
 		</font>
 		<font>
 			<name>qlassikMediumBold</name>
-			<filename>QlassikBold_TB.otf</filename>
+			<filename>QlassikBold_TB.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>qlassikMedium1</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>qlassikSmallBold2</name>
-			<filename>QlassikBold_TB.otf</filename>
+			<filename>QlassikBold_TB.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>qlassikSmallBold</name>
-			<filename>QlassikBold_TB.otf</filename>
+			<filename>QlassikBold_TB.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>qlassikSmall2</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>qlassikSmall</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>qlassikSmallest</name>
-			<filename>Qlassik_TB.otf</filename>
+			<filename>Qlassik_TB.ttf</filename>
 			<size>16</size>
 		</font>
 		<font>
 			<name>titilliumMedium</name>
-			<filename>TitilliumMaps29L001.otf</filename>
+			<filename>TitilliumMaps29L001.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>fontinSmall</name>
-			<filename>Fontin-Regular.otf</filename>
+			<filename>Fontin-Regular.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>fontinSmallest</name>
-			<filename>Fontin-Regular.otf</filename>
+			<filename>Fontin-Regular.ttf</filename>
 			<size>16</size>
 		</font>
 		<font>
