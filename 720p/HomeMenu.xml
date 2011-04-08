@@ -41,6 +41,7 @@
 					<control type="label">
 						<posx>105</posx>
 						<posy>240</posy>
+						<font>qlassikSmall2</font>
 						<label>&#xB7; $INFO[ListItem.Label] </label>
 						<include>homeMenuFocused</include>
 						<visible>!IsEmpty(ListItem.Label2)</visible>
@@ -73,20 +74,19 @@
 			<content>
 				<item id="1">
 					<label>$LOCALIZE[0]</label>
-					<onclick>ActivateWindow(Programs)</onclick>
+					<onclick>ActivateWindow(Programs,Addons)</onclick>
 					<visible>Skin.HasSetting(showprogramsmainmenu)</visible>
 				</item>
 				<item id="2">
-					<description>iTunes</description>
-					<onclick>Plex.ActivateWindow(10501,http://127.0.0.1:32400/music/iTunes/,return)</onclick>
-					<label>iTunes</label>
-					<visible>Skin.HasSetting(showitunesmainmenu)</visible>
+					<description>Videos</description>
+					<onclick>ActivateWindow(VideoFiles)</onclick>
+					<label>Videos</label>
 				</item>
 				<item id="3">
-					<description>Search Menu</description>
-					<label>Search</label>
-					<onclick>Plex.ActivateWindow(10051)</onclick>
-					<visible>!Skin.HasSetting(hidesearchmainmenu)</visible>
+					<description>TV Shows</description>
+					<label>TV Shows</label>
+					<onclick>ActivateWindow(MyVideoLibrary,tvshowtitles)</onclick>
+					<visible>Library.HasContent(TVShows)</visible>
 				</item>
 				<item id="4">
 					<description>Favourites</description>

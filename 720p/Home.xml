@@ -1,6 +1,6 @@
 <window id="0">
 	<defaultcontrol always="true">300</defaultcontrol>
-	<allowoverlay>no</allowoverlay>
+	<allowoverlay>yes</allowoverlay>
 	<controls>
 		<!-- BACKGROUND MEDIA -->
 		<include>slideshows</include>

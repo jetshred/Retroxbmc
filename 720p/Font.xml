@@ -40,37 +40,37 @@
 		<!-- UPDATED -->
 		<font>
 			<name>lobsterBig</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>56</size>
 		</font>
 		<font>
 			<name>lobsterMedium</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>40</size>
 		</font>
 		<font>
 			<name>lobsterMediumSmall2</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>38</size>
 		</font>
 		<font>
 			<name>lobsterMediumSmall</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>32</size>
 		</font>
 		<font>
 			<name>lobsterSmall2</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>28</size>
 		</font>
 		<font>
 			<name>lobsterSmall</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>24</size>
 		</font>
 		<font>
 			<name>lobsterSmallest</name>
-			<filename>Lobster 1.4.otf</filename>
+			<filename>Lobster14.ttf</filename>
 			<size>16</size>
 		</font>
 		<font>
@@ -140,32 +140,32 @@
 		</font>
 		<font>
 			<name>dockBig</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>36</size>
 		</font>
 		<font>
 			<name>dockMedium2</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>31</size>
 		</font>
 		<font>
 			<name>dockMedium</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>28</size>
 		</font>
 		<font>
 			<name>dock24</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>24</size>
 		</font>
 		<font>
 			<name>dockMediumSmall</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>dockSmall</name>
-			<filename>dock11.otf</filename>
+			<filename>dock11.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
